@@ -1,2 +1,2 @@
 # hello-word
-jsut another repository
+esto es una prueba de inicio
